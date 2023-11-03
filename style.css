@@ -1,0 +1,140 @@
+.theo{
+    padding-left: 100px;
+    color: white;
+    padding-top: 50px;
+}
+.group{
+    justify-content: space-between;
+    padding-right: 100px;
+    display: flex;
+    padding-top: 50px;
+}
+.together{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.bold{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+.love{
+    background: url('images/banner.jpg');
+    background-color: black;
+    height:500px;
+    width:auto ;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.e{
+    padding-left: 30px;
+}
+.g{
+    padding-left: 30px;
+}
+.blue{
+  color: blue;
+}
+.brown{
+    color: rgba(134, 42, 42, 0.507);
+}
+.bb{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    /* padding-bottom: 40px; */
+}
+.option1{
+    border-right: 1px black solid;
+    padding-right: 80px;
+}
+.pictures img{
+    border-radius: 800px;
+    margin: 20px;
+    /* border-block: 2px black solid; */
+    text-align: center;
+}
+.tem{
+    border: 1px solid;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.pic{
+    background-color: rgb(53, 53, 165);
+    padding-bottom: 50px;
+    margin-top: 40px;
+}
+@media (max-width:768px) {
+    .theo{
+        padding-left: 50px;
+        color: white;
+        padding-top: 50px;
+    }
+    .love{
+        /* background: url('images/tunde.jpg'); */
+        background-color: black;
+        width:auto ;
+        text-align: center;
+        background-repeat: no-repeat;
+    }
+    .option1{
+        border-right: 1px black solid;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+.names{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+
+}
+.pictures{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+.nunc{
+    text-align: center;
+    color: rgb(53, 53, 165);
+}
+.aliqam{
+    color: rgb(161, 123, 95);
+    text-align: center;
+}
+.view{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.view img{
+    height: 200px;
+    width: auto;
+}
+.road img{
+    height: 200px;
+    width: auto;
+}
+.more{
+    padding-bottom: 10px;
+
+}
+.more button{
+    background-color:rgb(53, 53, 165);
+    color: white;
+    padding: 10px;
+}
+.group a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: lowercase;
+}
+.group a:hover{
+    color: aquamarine;
+    text-transform: capitalize;
+}
